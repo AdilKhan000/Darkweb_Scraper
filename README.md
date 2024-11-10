@@ -31,8 +31,8 @@ Ensure your environment meets the following requirements:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/AdilKhan000/Darkweb_Scraper.git
+cd Darkweb_Scraper
 ```
 
 ### 2. Create a Virtual Environment
